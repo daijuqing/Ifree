@@ -1,0 +1,17 @@
+//
+//  RushTableViewCell.h
+//  项目三
+//
+//  Created by Macx on 15/11/24.
+//  Copyright (c) 2015年 Macx. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+#import "RushModel.h"
+
+@interface RushTableViewCell : UITableViewCell
+
+@property (nonatomic ,copy)RushModel *model;
+
+@end

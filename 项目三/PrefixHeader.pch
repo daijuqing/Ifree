@@ -1,0 +1,37 @@
+//
+//  PrefixHeader.pch
+//  项目三
+//
+//  Created by Macx on 15/11/12.
+//  Copyright (c) 2015年 Macx. All rights reserved.
+//
+
+#ifndef ____PrefixHeader_pch
+#define ____PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#define kScreenBounds [UIScreen mainScreen].bounds
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHieght [UIScreen mainScreen].bounds.size.height
+
+#import "CustomTabBarController.h"
+
+#import "BaseViewController.h"
+
+#import "BaseNavigationController.h"
+
+#import "Comment.h"
+
+#define KappKey @"b37a7772c6ad"
+#define KappSecret @"eea6e2daeff041ba449c16c3580b13fe"
+
+#define KsinaWeiboAppKey @"2798226811"
+#define KsinaWeiboAppSecret @"d6b0380ec701a865accf480830973c6f"
+#define KredirectUri @"http://www.baidu.com"
+
+#define KTXAPPID @"1104898519"
+#define KTXAPPKEY @"7vG6QGqu1XfVPGOt"
+
+#endif
