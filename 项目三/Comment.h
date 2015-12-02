@@ -31,4 +31,6 @@
 //#import <RennSDK/RennSDK.h>
 
 #import "SYQRCodeViewController.h"
+
+#import "MJRefresh.h"
 #endif
