@@ -13,6 +13,7 @@
 		8F26F22A1BF8B7D100CD627E /* btn_ok.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F26F2291BF8B7D100CD627E /* btn_ok.png */; };
 		8F26F22D1BF8B81800CD627E /* NavgationBarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F26F22C1BF8B81800CD627E /* NavgationBarView.m */; };
 		8F4CBF591C005CC900183088 /* ListTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F4CBF581C005CC900183088 /* ListTableView.m */; };
+		8F58EFB41C0FDA7900A7921C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F58EFB31C0FDA7900A7921C /* Default-568h@2x.png */; };
 		8F5CA3EC1C06D89E00B49C52 /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5CA3EB1C06D89E00B49C52 /* WebViewController.m */; };
 		8F5CA3EF1C06E87100B49C52 /* RankModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5CA3EE1C06E87100B49C52 /* RankModel.m */; };
 		8F5CA3F21C06E8C400B49C52 /* RankViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5CA3F11C06E8C400B49C52 /* RankViewController.m */; };
@@ -154,7 +155,7 @@
 		8FC6A2A41BF471E500EE6453 /* ___.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8FC6A2A21BF471E500EE6453 /* ___.xcdatamodeld */; };
 		8FC6A2AC1BF471E500EE6453 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FC6A2AB1BF471E500EE6453 /* Images.xcassets */; };
 		8FC6A2AF1BF471E500EE6453 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8FC6A2AD1BF471E500EE6453 /* LaunchScreen.xib */; };
-		8FC6A2BB1BF471E600EE6453 /* ___Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FC6A2BA1BF471E600EE6453 /* ___Tests.m */; };
+		8FC6A2BB1BF471E600EE6453 /* IfreeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FC6A2BA1BF471E600EE6453 /* IfreeTests.m */; };
 		8FC6A32A1BF47F2800EE6453 /* CouponStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FC6A3291BF47F2800EE6453 /* CouponStoryboard.storyboard */; };
 		8FC6A32C1BF47F3500EE6453 /* SortStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FC6A32B1BF47F3500EE6453 /* SortStoryboard.storyboard */; };
 		8FC6A32E1BF47F4200EE6453 /* RushStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FC6A32D1BF47F4200EE6453 /* RushStoryboard.storyboard */; };
@@ -218,6 +219,7 @@
 		8F26F22C1BF8B81800CD627E /* NavgationBarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavgationBarView.m; sourceTree = "<group>"; };
 		8F4CBF571C005CC900183088 /* ListTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListTableView.h; sourceTree = "<group>"; };
 		8F4CBF581C005CC900183088 /* ListTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListTableView.m; sourceTree = "<group>"; };
+		8F58EFB31C0FDA7900A7921C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		8F5CA3EA1C06D89E00B49C52 /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
 		8F5CA3EB1C06D89E00B49C52 /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
 		8F5CA3ED1C06E87100B49C52 /* RankModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RankModel.h; sourceTree = "<group>"; };
@@ -454,7 +456,7 @@
 		8FC5EEEF1C0D8CEF0043558A /* ScanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScanViewController.m; path = ../Models/ScanViewController.m; sourceTree = "<group>"; };
 		8FC5EEF11C0D96970043558A /* btn_back (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn_back (2).png"; sourceTree = "<group>"; };
 		8FC5EEF21C0D96970043558A /* btn_back (3).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn_back (3).png"; sourceTree = "<group>"; };
-		8FC6A2981BF471E500EE6453 /* 项目三.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "项目三.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8FC6A2981BF471E500EE6453 /* Ifree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ifree.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FC6A29C1BF471E500EE6453 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8FC6A29D1BF471E500EE6453 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8FC6A29F1BF471E500EE6453 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -462,9 +464,9 @@
 		8FC6A2A31BF471E500EE6453 /* ___.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "___.xcdatamodel"; sourceTree = "<group>"; };
 		8FC6A2AB1BF471E500EE6453 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		8FC6A2AE1BF471E500EE6453 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		8FC6A2B41BF471E600EE6453 /* 项目三Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "项目三Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8FC6A2B41BF471E600EE6453 /* IfreeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IfreeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FC6A2B91BF471E600EE6453 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8FC6A2BA1BF471E600EE6453 /* ___Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "___Tests.m"; sourceTree = "<group>"; };
+		8FC6A2BA1BF471E600EE6453 /* IfreeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IfreeTests.m; sourceTree = "<group>"; };
 		8FC6A3261BF47C0F00EE6453 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 		8FC6A3291BF47F2800EE6453 /* CouponStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = CouponStoryboard.storyboard; sourceTree = "<group>"; };
 		8FC6A32B1BF47F3500EE6453 /* SortStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = SortStoryboard.storyboard; sourceTree = "<group>"; };
@@ -918,6 +920,7 @@
 		8FC6A28F1BF471E400EE6453 = {
 			isa = PBXGroup;
 			children = (
+				8F58EFB31C0FDA7900A7921C /* Default-568h@2x.png */,
 				8F627F781BFD77400091365E /* AVFoundation.framework */,
 				8FA06F801BF9D4E6002DAF8E /* AddressBook.framework */,
 				8FA06F7E1BF9D4DE002DAF8E /* AssetsLibrary.framework */,
@@ -937,8 +940,8 @@
 				8FA06F621BF9D455002DAF8E /* CoreTelephony.framework */,
 				8FA06F601BF9D44D002DAF8E /* QuartzCore.framework */,
 				8FA06F5E1BF9D444002DAF8E /* SystemConfiguration.framework */,
-				8FC6A29A1BF471E500EE6453 /* 项目三 */,
-				8FC6A2B71BF471E600EE6453 /* 项目三Tests */,
+				8FC6A29A1BF471E500EE6453 /* Ifree */,
+				8FC6A2B71BF471E600EE6453 /* IfreeTests */,
 				8FC6A2991BF471E500EE6453 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -946,13 +949,13 @@
 		8FC6A2991BF471E500EE6453 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8FC6A2981BF471E500EE6453 /* 项目三.app */,
-				8FC6A2B41BF471E600EE6453 /* 项目三Tests.xctest */,
+				8FC6A2981BF471E500EE6453 /* Ifree.app */,
+				8FC6A2B41BF471E600EE6453 /* IfreeTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8FC6A29A1BF471E500EE6453 /* 项目三 */ = {
+		8FC6A29A1BF471E500EE6453 /* Ifree */ = {
 			isa = PBXGroup;
 			children = (
 				8FB764641BFDBAD500768064 /* Comment */,
@@ -966,7 +969,7 @@
 				8FC6A2A21BF471E500EE6453 /* ___.xcdatamodeld */,
 				8FC6A29B1BF471E500EE6453 /* Supporting Files */,
 			);
-			path = "项目三";
+			path = Ifree;
 			sourceTree = "<group>";
 		};
 		8FC6A29B1BF471E500EE6453 /* Supporting Files */ = {
@@ -979,13 +982,13 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		8FC6A2B71BF471E600EE6453 /* 项目三Tests */ = {
+		8FC6A2B71BF471E600EE6453 /* IfreeTests */ = {
 			isa = PBXGroup;
 			children = (
-				8FC6A2BA1BF471E600EE6453 /* ___Tests.m */,
+				8FC6A2BA1BF471E600EE6453 /* IfreeTests.m */,
 				8FC6A2B81BF471E600EE6453 /* Supporting Files */,
 			);
-			path = "项目三Tests";
+			path = IfreeTests;
 			sourceTree = "<group>";
 		};
 		8FC6A2B81BF471E600EE6453 /* Supporting Files */ = {
@@ -1348,9 +1351,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8FC6A2971BF471E500EE6453 /* 项目三 */ = {
+		8FC6A2971BF471E500EE6453 /* Ifree */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8FC6A2BE1BF471E600EE6453 /* Build configuration list for PBXNativeTarget "项目三" */;
+			buildConfigurationList = 8FC6A2BE1BF471E600EE6453 /* Build configuration list for PBXNativeTarget "Ifree" */;
 			buildPhases = (
 				8FC6A2941BF471E500EE6453 /* Sources */,
 				8FC6A2951BF471E500EE6453 /* Frameworks */,
@@ -1360,14 +1363,14 @@
 			);
 			dependencies = (
 			);
-			name = "项目三";
+			name = Ifree;
 			productName = "项目三";
-			productReference = 8FC6A2981BF471E500EE6453 /* 项目三.app */;
+			productReference = 8FC6A2981BF471E500EE6453 /* Ifree.app */;
 			productType = "com.apple.product-type.application";
 		};
-		8FC6A2B31BF471E600EE6453 /* 项目三Tests */ = {
+		8FC6A2B31BF471E600EE6453 /* IfreeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8FC6A2C11BF471E600EE6453 /* Build configuration list for PBXNativeTarget "项目三Tests" */;
+			buildConfigurationList = 8FC6A2C11BF471E600EE6453 /* Build configuration list for PBXNativeTarget "IfreeTests" */;
 			buildPhases = (
 				8FC6A2B01BF471E600EE6453 /* Sources */,
 				8FC6A2B11BF471E600EE6453 /* Frameworks */,
@@ -1378,9 +1381,9 @@
 			dependencies = (
 				8FC6A2B61BF471E600EE6453 /* PBXTargetDependency */,
 			);
-			name = "项目三Tests";
+			name = IfreeTests;
 			productName = "项目三Tests";
-			productReference = 8FC6A2B41BF471E600EE6453 /* 项目三Tests.xctest */;
+			productReference = 8FC6A2B41BF471E600EE6453 /* IfreeTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -1401,7 +1404,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8FC6A2931BF471E400EE6453 /* Build configuration list for PBXProject "项目三" */;
+			buildConfigurationList = 8FC6A2931BF471E400EE6453 /* Build configuration list for PBXProject "Ifree" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -1415,8 +1418,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8FC6A2971BF471E500EE6453 /* 项目三 */,
-				8FC6A2B31BF471E600EE6453 /* 项目三Tests */,
+				8FC6A2971BF471E500EE6453 /* Ifree */,
+				8FC6A2B31BF471E600EE6453 /* IfreeTests */,
 			);
 		};
 /* End PBXProject section */
@@ -1459,6 +1462,7 @@
 				8F26F22A1BF8B7D100CD627E /* btn_ok.png in Resources */,
 				8FB765181BFDBC1700768064 /* ShareSDKFlatShareViewUI.bundle in Resources */,
 				8FEA5D801C0E71B6008F9E51 /* MJRefresh.bundle in Resources */,
+				8F58EFB41C0FDA7900A7921C /* Default-568h@2x.png in Resources */,
 				8FC6A3631BF48C8600EE6453 /* tab_2_unselect.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1601,7 +1605,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8FC6A2BB1BF471E600EE6453 /* ___Tests.m in Sources */,
+				8FC6A2BB1BF471E600EE6453 /* IfreeTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1610,7 +1614,7 @@
 /* Begin PBXTargetDependency section */
 		8FC6A2B61BF471E600EE6453 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8FC6A2971BF471E500EE6453 /* 项目三 */;
+			target = 8FC6A2971BF471E500EE6453 /* Ifree */;
 			targetProxy = 8FC6A2B51BF471E600EE6453 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -1720,22 +1724,23 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/项目三/ShareSDK/Connection",
-					"$(PROJECT_DIR)/项目三/ShareSDK/Core",
-					"$(PROJECT_DIR)/项目三/ShareSDK/Extend/QQConnectSDK",
-					"$(PROJECT_DIR)/项目三/ShareSDK",
-					"$(PROJECT_DIR)/项目三/ShareSDK/UI",
+					"$(PROJECT_DIR)/Ifree/ShareSDK/Connection",
+					"$(PROJECT_DIR)/Ifree/ShareSDK/Core",
+					"$(PROJECT_DIR)/Ifree/ShareSDK/Extend/QQConnectSDK",
+					"$(PROJECT_DIR)/Ifree/ShareSDK",
+					"$(PROJECT_DIR)/Ifree/ShareSDK/UI",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = NO;
-				GCC_PREFIX_HEADER = "$(SRCROOT)/项目三/PrefixHeader.pch";
-				INFOPLIST_FILE = "项目三/Info.plist";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/Ifree/PrefixHeader.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/IfreeTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/项目三/ShareSDK/Extend/SinaWeiboSDK",
-					"$(PROJECT_DIR)/项目三/ShareSDK/Extend/WeChatSDK",
+					"$(PROJECT_DIR)/Ifree/ShareSDK/Extend/SinaWeiboSDK",
+					"$(PROJECT_DIR)/Ifree/ShareSDK/Extend/WeChatSDK",
 				);
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = Ifree;
 			};
 			name = Debug;
 		};
@@ -1745,22 +1750,23 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/项目三/ShareSDK/Connection",
-					"$(PROJECT_DIR)/项目三/ShareSDK/Core",
-					"$(PROJECT_DIR)/项目三/ShareSDK/Extend/QQConnectSDK",
-					"$(PROJECT_DIR)/项目三/ShareSDK",
-					"$(PROJECT_DIR)/项目三/ShareSDK/UI",
+					"$(PROJECT_DIR)/Ifree/ShareSDK/Connection",
+					"$(PROJECT_DIR)/Ifree/ShareSDK/Core",
+					"$(PROJECT_DIR)/Ifree/ShareSDK/Extend/QQConnectSDK",
+					"$(PROJECT_DIR)/Ifree/ShareSDK",
+					"$(PROJECT_DIR)/Ifree/ShareSDK/UI",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = NO;
-				GCC_PREFIX_HEADER = "$(SRCROOT)/项目三/PrefixHeader.pch";
-				INFOPLIST_FILE = "项目三/Info.plist";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/Ifree/PrefixHeader.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/IfreeTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/项目三/ShareSDK/Extend/SinaWeiboSDK",
-					"$(PROJECT_DIR)/项目三/ShareSDK/Extend/WeChatSDK",
+					"$(PROJECT_DIR)/Ifree/ShareSDK/Extend/SinaWeiboSDK",
+					"$(PROJECT_DIR)/Ifree/ShareSDK/Extend/WeChatSDK",
 				);
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = Ifree;
 			};
 			name = Release;
 		};
@@ -1776,9 +1782,9 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "项目三Tests/Info.plist";
+				INFOPLIST_FILE = IfreeTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = IfreeTests;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/项目三.app/项目三";
 			};
 			name = Debug;
@@ -1791,9 +1797,9 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "项目三Tests/Info.plist";
+				INFOPLIST_FILE = IfreeTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = IfreeTests;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/项目三.app/项目三";
 			};
 			name = Release;
@@ -1801,7 +1807,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8FC6A2931BF471E400EE6453 /* Build configuration list for PBXProject "项目三" */ = {
+		8FC6A2931BF471E400EE6453 /* Build configuration list for PBXProject "Ifree" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8FC6A2BC1BF471E600EE6453 /* Debug */,
@@ -1810,7 +1816,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8FC6A2BE1BF471E600EE6453 /* Build configuration list for PBXNativeTarget "项目三" */ = {
+		8FC6A2BE1BF471E600EE6453 /* Build configuration list for PBXNativeTarget "Ifree" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8FC6A2BF1BF471E600EE6453 /* Debug */,
@@ -1819,7 +1825,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8FC6A2C11BF471E600EE6453 /* Build configuration list for PBXNativeTarget "项目三Tests" */ = {
+		8FC6A2C11BF471E600EE6453 /* Build configuration list for PBXNativeTarget "IfreeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8FC6A2C21BF471E600EE6453 /* Debug */,

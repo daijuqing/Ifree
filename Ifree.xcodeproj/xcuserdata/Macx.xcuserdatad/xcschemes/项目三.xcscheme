@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8FC6A2971BF471E500EE6453"
-               BuildableName = "&#x9879;&#x76ee;&#x4e09;.app"
-               BlueprintName = "&#x9879;&#x76ee;&#x4e09;"
-               ReferencedContainer = "container:&#x9879;&#x76ee;&#x4e09;.xcodeproj">
+               BuildableName = "Ifre.app"
+               BlueprintName = "Ifree"
+               ReferencedContainer = "container:Ifree.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8FC6A2B31BF471E600EE6453"
-               BuildableName = "&#x9879;&#x76ee;&#x4e09;Tests.xctest"
-               BlueprintName = "&#x9879;&#x76ee;&#x4e09;Tests"
-               ReferencedContainer = "container:&#x9879;&#x76ee;&#x4e09;.xcodeproj">
+               BuildableName = "IfreTests.xctest"
+               BlueprintName = "IfreeTests"
+               ReferencedContainer = "container:Ifree.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8FC6A2B31BF471E600EE6453"
-               BuildableName = "&#x9879;&#x76ee;&#x4e09;Tests.xctest"
-               BlueprintName = "&#x9879;&#x76ee;&#x4e09;Tests"
-               ReferencedContainer = "container:&#x9879;&#x76ee;&#x4e09;.xcodeproj">
+               BuildableName = "IfreTests.xctest"
+               BlueprintName = "IfreeTests"
+               ReferencedContainer = "container:Ifree.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8FC6A2971BF471E500EE6453"
-            BuildableName = "&#x9879;&#x76ee;&#x4e09;.app"
-            BlueprintName = "&#x9879;&#x76ee;&#x4e09;"
-            ReferencedContainer = "container:&#x9879;&#x76ee;&#x4e09;.xcodeproj">
+            BuildableName = "Ifre.app"
+            BlueprintName = "Ifree"
+            ReferencedContainer = "container:Ifree.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8FC6A2971BF471E500EE6453"
-            BuildableName = "&#x9879;&#x76ee;&#x4e09;.app"
-            BlueprintName = "&#x9879;&#x76ee;&#x4e09;"
-            ReferencedContainer = "container:&#x9879;&#x76ee;&#x4e09;.xcodeproj">
+            BuildableName = "Ifre.app"
+            BlueprintName = "Ifree"
+            ReferencedContainer = "container:Ifree.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8FC6A2971BF471E500EE6453"
-            BuildableName = "&#x9879;&#x76ee;&#x4e09;.app"
-            BlueprintName = "&#x9879;&#x76ee;&#x4e09;"
-            ReferencedContainer = "container:&#x9879;&#x76ee;&#x4e09;.xcodeproj">
+            BuildableName = "Ifre.app"
+            BlueprintName = "Ifree"
+            ReferencedContainer = "container:Ifree.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
