@@ -231,7 +231,7 @@
 
     
     UINavigationController *nav = (BaseNavigationController *)self.viewController;
-    CouponTableViewController *couponVC = [nav.viewControllers firstObject];
+//    CouponTableViewController *couponVC = [nav.viewControllers firstObject];
     
     
     

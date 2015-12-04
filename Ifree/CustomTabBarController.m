@@ -48,7 +48,7 @@
 - (void)creatTabBarItem:(NSInteger)itemCount {
 
     
-    int i;
+    int i = 0;
     
     _newTabBar.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:_bgImageName]];
     
@@ -60,7 +60,7 @@
     
     for (UIViewController *vc in self.viewControllers) {
         
-        TabBarItem *item = [[TabBarItem alloc] initWithFrame:CGRectMake(i *self.view.frame.size.width/itemCount, 0, self.view.frame.size.width/itemCount, 49) withTabBarItem:vc.tabBarItem];
+        TabBarItem *item = [[TabBarItem alloc] initWithFrame:CGRectMake( self.view.frame.size.width/itemCount * i, 0, self.view.frame.size.width/itemCount, 49) withTabBarItem:vc.tabBarItem];
         [_newTabBar addSubview:item];
         item.tag = 100+i;
         [item addTarget:self action:@selector(itemAction:) forControlEvents:UIControlEventTouchUpInside];

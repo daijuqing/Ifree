@@ -84,7 +84,7 @@
     ActivityViewController *vc = [[ActivityViewController alloc]init];
 
     
-    UINavigationController *nav = [[UINavigationController alloc]initWithRootViewController:vc];
+//    UINavigationController *nav = [[UINavigationController alloc]initWithRootViewController:vc];
     
     ActivityModel *activityModel = [_dataList objectAtIndex:indexPath.row];
     DetailModel *detailModel = [[DetailModel alloc]init];

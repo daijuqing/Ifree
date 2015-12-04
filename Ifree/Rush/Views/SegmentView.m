@@ -84,15 +84,15 @@
     
     
     //按钮的高与TopScroll一致
-    float contenX = GapOfButton;
+//    float contenX = GapOfButton;
     for (int i =0 ; i < _nameArr.count; i++) {
         UIButton *button = [UIButton buttonWithType:UIButtonTypeCustom];
         [button setTitle:_nameArr[i] forState:UIControlStateNormal];
         button.titleLabel.font  = [UIFont systemFontOfSize:ButtonFont];
-        CGSize size = [button.currentTitle sizeWithFont:[UIFont systemFontOfSize:ButtonFont] constrainedToSize:CGSizeMake(1000, 40)];
+//        CGSize size = [button.currentTitle sizeWithFont:[UIFont systemFontOfSize:ButtonFont] constrainedToSize:CGSizeMake(1000, 40)];
         button.frame = CGRectMake(kScreenWidth/2 * i, 0, kScreenWidth/2, TopScHeight);
         //button.backgroundColor = [UIColor orangeColor];
-        contenX = button.frame.origin.x + size.width + GapOfButton;
+//        contenX = button.frame.origin.x + size.width + GapOfButton;
         button.tag = 200 + i;
         [button addTarget:self action:@selector(btnClick:) forControlEvents:UIControlEventTouchUpInside];
         [_topView addSubview:button];

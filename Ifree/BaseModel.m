@@ -88,7 +88,7 @@
     
     NSArray *arr = [regular matchesInString:sourceString options:NSMatchingReportProgress range:NSMakeRange(0, [sourceString length])];
     
-    NSRange range;
+    NSRange range = NSMakeRange(0, 0);
     for (NSTextCheckingResult *result in arr) {
         
         range = [result range];
