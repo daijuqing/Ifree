@@ -16,6 +16,6 @@
 @property (nonatomic ,strong)NSArray *bannerDataList;//精品推荐
 @property (nonatomic ,strong)NSArray *sellerDataList;//商家推荐
 
-+ (void)getHeaderViewHigth;
+//+ (void)getHeaderViewHigth;
 
 @end

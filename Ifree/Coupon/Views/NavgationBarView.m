@@ -237,7 +237,7 @@
     
     UIViewAnimationTransition transition = UIViewAnimationTransitionFlipFromLeft;
     
-    UIViewAnimationTransition transition1 = UIViewAnimationTransitionFlipFromLeft;
+//    UIViewAnimationTransition transition1 = UIViewAnimationTransitionFlipFromLeft;
 
 
     [UIView animateWithDuration:.5 animations:^{
